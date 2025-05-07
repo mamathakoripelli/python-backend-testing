@@ -8,7 +8,7 @@ db_config = {
     'host': 'database-1.c76e0qssab8q.us-east-1.rds.amazonaws.com',
     'user': 'admin',
     'password': 'Kmamatha2001',
-    'database': 'database-1'  # Change to your actual database name
+    'database': 'dev'  # Change to your actual database name
 }
 
 # Connect to MySQL
